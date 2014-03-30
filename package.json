@@ -1,0 +1,13 @@
+{
+  "name": "editor-grammar-scope",
+  "main": "./lib/editor-grammar-scope",
+  "version": "0.0.0",
+  "description": "Add a class to the editor representing the currently selected grammar.",
+  "repository": "https://github.com/atom/editor-grammar-scope",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
